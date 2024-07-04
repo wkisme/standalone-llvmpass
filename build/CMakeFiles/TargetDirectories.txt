@@ -1,0 +1,7 @@
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/intrinsics_gen.dir
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/omp_gen.dir
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/acc_gen.dir
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/MyPass.dir
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/edit_cache.dir
+/home/kuow/module-test/llvm-pass/build/CMakeFiles/rebuild_cache.dir
